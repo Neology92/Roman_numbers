@@ -12,15 +12,15 @@ Program, which allows user, to convert arabic numerals to roman and vice versa.
 - Calc?
 
 ## Gettin' started
-
+-
 ### Basics
-
+-
 ### How to use
-
+-
 ##### Example
-
+-
 ### Notes
-
+-
 
 License
 ---
