@@ -6,8 +6,9 @@ Program, which allows user, to convert arabic numerals to roman and vice versa.
 
 ## Todos:
 
-- Menu
-- Push the limit (now it's about 0-2000)
+- Set limit in "roman_to_arabic" function
+- New system to convert roman_to_arabic
+- makefile
 - Negative numbers
 - Calc?
 
