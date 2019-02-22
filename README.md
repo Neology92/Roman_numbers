@@ -4,24 +4,21 @@
 
 Program, which allows user, to convert arabic numerals to roman and vice versa.
 
-## Todos:
-
-- Set limit in "roman_to_arabic" function
-- New system to convert roman_to_arabic
-- makefile
-- Negative numbers
-- Calc?
 
 ## Gettin' started
--
+
+```sh
+$ make
+$ make clean 
+$ ./program
+```
+
 ### Basics
--
-### How to use
--
-##### Example
--
+
+	Works properly just on numbers in the range from 1 to 4999
+
 ### Notes
--
+	Just little program
 
 License
 ---
