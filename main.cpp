@@ -1,7 +1,4 @@
-#include <iostream>
-#include "convert.h"
-
-using namespace std;
+#include "main.h"
 
 int main()
 {
@@ -24,10 +21,10 @@ int main()
 
 			if(arabic > 0 && arabic < 5000)
 				roman = arab_to_rom(arabic);
+				cout << "In roman numerals: " << roman << endl;
 			else
 				cout << "The number must be more than 0, and less than 5000!" << endl;
 
-			cout << "In roman numerals: " << roman << endl;
 			break;
 		
 		case 2:
